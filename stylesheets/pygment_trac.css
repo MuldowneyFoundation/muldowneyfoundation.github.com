@@ -8,11 +8,11 @@
 .highlight .cp { color: #009999 } /* Comment.Preproc */
 .highlight .c1 { color: #0099FF; font-style: italic } /* Comment.Single */
 .highlight .cs { color: #0099FF; font-weight: bold; font-style: italic } /* Comment.Special */
-.highlight .gd { background-color: #FFCCCC; border: 1px solid #CC0000 } /* Generic.Deleted */
+.highlight .gd { background-color: #FFCCCC;  } /* Generic.Deleted */
 .highlight .ge { font-style: italic } /* Generic.Emph */
 .highlight .gr { color: #FF0000 } /* Generic.Error */
 .highlight .gh { color: #003300; font-weight: bold } /* Generic.Heading */
-.highlight .gi { background-color: #CCFFCC; border: 1px solid #00CC00 } /* Generic.Inserted */
+.highlight .gi { background-color: #CCFFCC;  } /* Generic.Inserted */
 .highlight .go { color: #AAAAAA } /* Generic.Output */
 .highlight .gp { color: #000099; font-weight: bold } /* Generic.Prompt */
 .highlight .gs { font-weight: bold } /* Generic.Strong */
